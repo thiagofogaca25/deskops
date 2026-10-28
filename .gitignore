@@ -1,0 +1,21 @@
+# Maven / Java
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+.vite/
+
+# IDE & OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+.env.local
